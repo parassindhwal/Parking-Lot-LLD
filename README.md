@@ -63,3 +63,4 @@ cd Parking-Lot-LLD
 ```
 node server.js
 ```
+<img src="./ClassDiagram.png" width="730">
